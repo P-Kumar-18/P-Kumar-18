@@ -1,22 +1,93 @@
-# 💫 About Me:
-🎓 BCA student at Starex University (Graduating 2027)<br><br>💻 Exploring Full stack Development, Cloud Computing, and Databases<br><br>🌱 Passionate about learning through hands-on projects<br><br>🚀 Focused on building a strong foundation in Python, Cloud & Databases<br><br>✨ Curious mind with a love for problem-solving and creativity
+# Priyansh Kumar
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3670A0&width=500&lines=Backend-leaning+full-stack+developer;Python+%7C+Flask+%7C+Node.js+%7C+SQLite;Open+to+internships)](https://git.io/typing-svg)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshkumar18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyansh18116@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=P-Kumar-18&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=P-Kumar-18&theme=discord_old_blurple&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=P-Kumar-18&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=P-Kumar-18&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
+BCA student building real systems with Python, Node.js & databases — open to internships.
 
 ---
-[![](https://komarev.com/ghpvc/?username=P-Kumar-18&icon=0&color=12)](https://visitcount.itsvg.in)
+
+## About
+
+I'm a BCA student at Starex University (graduating 2027), based in India. I got into development by building things — starting with static pages, working my way up to full-stack apps with real authentication, databases, and layered architecture.
+
+I'm drawn to the **backend**: how systems are structured, how data flows, and how to write code that's clean enough to actually maintain. I care about test coverage, separation of concerns, and shipping things that work.
+
+---
+
+## Projects
+
+### 🧠 [Argeia](https://github.com/P-Kumar-18/Argeia)
+A behavioral procrastination tracker that models *why* you delay tasks — not just that you do. Signals (start delay, underwork, timeout) feed into a weekly windowing system, pattern detection, and a proposal-driven state engine that transitions between Stable → Drifting → Strained → Disengaged. Each layer is independently testable and decoupled. Full Flask web interface with CSRF protection, server-rendered Jinja2 templates, and complete state reconstruction on restart.
+
+`Python` `Flask` `SQLite` `Pytest` `Flask-WTF` `Jinja2`
+
+[![Argeia](https://github-readme-stats.vercel.app/api/pin/?username=P-Kumar-18&repo=Argeia&theme=tokyonight&hide_border=true)](https://github.com/P-Kumar-18/Argeia)
+
+---
+
+### 🔒 [Multiuser File Safe](https://multiuser-file-safe.onrender.com) `live`
+Full-stack secure file storage with bcrypt auth and session handling. Every user gets a completely isolated private folder. Deployed live on Render.
+
+`Node.js` `Express` `bcrypt` `Multer`
+
+[![Multiuser File Safe](https://github-readme-stats.vercel.app/api/pin/?username=P-Kumar-18&repo=multiuser-file-safe&theme=tokyonight&hide_border=true)](https://github.com/P-Kumar-18/multiuser-file-safe)
+
+---
+
+### 📸 [EchoSort](https://github.com/P-Kumar-18/EchoSort)
+A desktop tool that auto-organizes photos into date-based folders. Clean Tkinter GUI, log generation, packaged as a standalone `.exe` with PyInstaller.
+
+`Python` `Tkinter` `Pillow` `PyInstaller`
+
+[![EchoSort](https://github-readme-stats.vercel.app/api/pin/?username=P-Kumar-18&repo=EchoSort&theme=tokyonight&hide_border=true)](https://github.com/P-Kumar-18/EchoSort)
+
+---
+
+### 📊 [Mood Poll Tracker](https://github.com/P-Kumar-18/mood-poll-tracker)
+Full-stack mood voting app with a dynamic frontend and persistent Express backend. First project with a proper backend data layer.
+
+`Node.js` `Express` `HTML/CSS/JS` `JSON Storage`
+
+---
+
+## What I work with
+
+[![Skills](https://skillicons.dev/icons?i=python,flask,fastapi,nodejs,express,sqlite,mysql,git,github,html,css,js,postman,figma,vscode&perline=8)](https://skillicons.dev)
+
+| Backend | Databases | Frontend | Tools |
+|---|---|---|---|
+| Python | SQLite | HTML / CSS | Git / GitHub |
+| Node.js / Express | MySQL | JavaScript | Pytest |
+| Flask | PostgreSQL (learning) | Bootstrap | REST APIs / Postman |
+| FastAPI | | | Docker (learning) |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=P-Kumar-18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=P-Kumar-18&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Kumar-18&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="130"/>
+</p>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=P-Kumar-18&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## Currently building
+
+Shipped **Argeia** v1 — now exploring PostgreSQL for production-grade databases and cloud deployment on Azure. Looking for the next project worth building.
+
+---
+
+## Let's talk
+
+Open to backend, full-stack, or Python internship opportunities. Always happy to connect.
+
+- **Email:** [priyansh18116@gmail.com](mailto:priyansh18116@gmail.com)
+- **LinkedIn:** [linkedin.com/in/priyanshkumar18](https://linkedin.com/in/priyanshkumar18)
+- **Portfolio:** [priyanshkumar.me](https://priyanshkumar.me)
